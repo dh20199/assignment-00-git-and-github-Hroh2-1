@@ -1,0 +1,14 @@
+{
+  "firstName": "Hyun",
+  "lastName": "Oh",
+  "nickName": "None",
+  "privateName": false,
+  "picture": "Hroh2.JPG",
+  "privatePicture": false,
+  "email": "hyunho.oh@mail.utoronto.ca",
+  "privateEmail": false,
+  "github": "Hroh2",
+  "privateGithub": false,
+  "superpower" : "Invisibility",
+  "academicinterests": "Works of Hannah Arendt in Political Theory"
+}
